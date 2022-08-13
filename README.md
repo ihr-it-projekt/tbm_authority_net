@@ -63,34 +63,108 @@ start tbm_authority_net
 
 ### Charge
 
+#### sdit
+
 ![charge edit](./docs/images/charge_edit.JPG "charge edit")
+
+#### search
+
 ![charge search](./docs/images/charge_search.JPG "charge search")
+
+#### search results
 ![charge search results](./docs/images/charge_search_result.JPG "charge search results")
+
+#### states
 ![charge states](./docs/images/charge_states.JPG "charge states")
+
+#### priorities
 ![charge priority](./docs/images/charge_priority.JPG "charge priority")
 
+### Control Center
 
-![](./docs/images/control_center.JPG "")
-![](./docs/images/control_center_manage_patrol_names.JPG "")
-![](./docs/images/control_center_manage_patrol_states.JPG "")
-![](./docs/images/control_center_manage_patrol_vehicles.JPG "")
-![](./docs/images/darkmode.JPG "")
-![](./docs/images/file_create.JPG "")
-![](./docs/images/file_edit.JPG "")
-![](./docs/images/file_edit_2.JPG "")
+![Control Center](./docs/images/control_center.JPG "Control Center")
+
+#### patrol names
+
+![patrol names](./docs/images/control_center_manage_patrol_names.JPG "patrol names")
+
+#### patrol states
+
+![patrol states](./docs/images/control_center_manage_patrol_states.JPG "patrol states")
+
+#### patrol vehicles
+
+![patrol vehicles](./docs/images/control_center_manage_patrol_vehicles.JPG "patrol vehicles")
+
+### darkmode
+
+![darkmode](./docs/images/darkmode.JPG "darkmode")
+
+### Files
+
+#### file create
+
+![file create](./docs/images/file_create.JPG "file create")
+
+#### file edit
+
+![file edit](./docs/images/file_edit.JPG "file edit")
+![file edit 2](./docs/images/file_edit_2.JPG "file edit 2")
+
+####
+
 ![](./docs/images/file_search.JPG "")
+
+####
+
 ![](./docs/images/file_search_result.JPG "")
+
+####
+
 ![](./docs/images/human_resource.JPG "")
+
+####
+
 ![](./docs/images/law.JPG "")
+
+####
+
 ![](./docs/images/law_bock_edit.JPG "")
+
+####
+
 ![](./docs/images/law_create_law.JPG "")
+
+####
+
 ![](./docs/images/law_create_law_book.JPG "")
+
+####
+
 ![](./docs/images/law_edit.JPG "")
+
+####
+
 ![](./docs/images/payout.JPG "")
+
+####
+
 ![](./docs/images/payout_2.JPG "")
+
+####
+
 ![](./docs/images/vehicle_create.JPG "")
+
+####
+
 ![](./docs/images/vehicle_edit.JPG "")
+
+####
+
 ![](./docs/images/vehicle_search.JPG "")
+
+####
+
 ![](./docs/images/vehicle_search_results.JPG "")
 ## Legal
 ### License
