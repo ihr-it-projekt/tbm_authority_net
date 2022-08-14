@@ -7,7 +7,7 @@ See gallery for details
 # Features
 
 - works on ESX and QB-Core
-- Access Control
+- [Access Control](https://github.com/ihr-it-projekt/tbm_authority_net/blob/main/docs/accessControl.md)
     - Boss can manage access to all features/grades
     - Grades can only access configured features
     - Boss has always full access
@@ -57,9 +57,6 @@ start tbm_authority_net
 
 ## Gallery
 
-### Access Control
-
-![Access Control](./docs/images/access_control.JPG "Access Control")
 
 ### Charge
 
