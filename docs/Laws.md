@@ -1,3 +1,4 @@
+[Back to Index](../README.md)
 
 # Law Bocks and Laws
 
@@ -18,3 +19,5 @@
 ## Law edit
 
 ![Law edit](./images/law_edit.JPG "Law edit")
+
+[Back to Index](../README.md)
