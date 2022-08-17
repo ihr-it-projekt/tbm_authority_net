@@ -40,6 +40,8 @@ A tool for the management of everyday police work.
   - different vehicle properties can be stored 
 - Police can toggle duty on/off
 - [Dark](./docs/DarkMode.md) and Light mode
+- available languages german and english
+- you can easy add your own language
 
 
 ## Requirements
